@@ -72,8 +72,8 @@ PDF and chart styles: Customize fonts, colors, and layout in the script
 ---
 License
 
-#This project is released under the MIT License.
+### This project is released under the MIT License.
 
 Author
 
-#Blessing Nyaberi Hamisi
+### Blessing Nyaberi Hamisi
