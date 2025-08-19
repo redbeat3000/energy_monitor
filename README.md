@@ -69,11 +69,12 @@ Appliances: Modify the appliances list in the script
 Simulation interval: Change time.sleep(10) to adjust logging frequency
 
 PDF and chart styles: Customize fonts, colors, and layout in the script
-
+---
 License
 
-This project is released under the MIT License.
+*This project is released under the MIT License.
 
 Author
 
 Blessing Nyaberi Hamisi
+*
