@@ -34,14 +34,17 @@ Smart Home Energy Monitor is a Python-based tool that simulates monitoring of ho
 sudo apt update
 sudo apt install python3-pip
 pip3 install matplotlib fpdf tabulate
+
+```
 Download the project files (ensure energy_monitor.py is in your working directory).
 
 Usage
 
 Run the script:
 
+```
 python3 energy_monitor.py
-
+```
 
 The script will:
 
